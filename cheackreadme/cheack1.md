@@ -7,9 +7,12 @@
   <img height="25px" src="https://img.shields.io/github/issues-pr/iamAntimPal/ExcelMasteryHub" alt="Pull Requests">
   <img height="25px" src="https://img.shields.io/github/issues/iamAntimPal/ExcelMasteryHub" alt="Issues">
   <img height="25px" src="https://img.shields.io/github/license/iamAntimPal/ExcelMasteryHub" alt="License">
-  <a href="https://makeapullrequest.com"><img height="25px" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
-  <img height="25px" src="https://img.shields.io/github/last-commit/iamAntimPal/ExcelMasteryHub"/>
+  <a href="https://makeapullrequest.com">
+    <img height="25px" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
+  </a>
+  <img height="25px" src="https://img.shields.io/github/last-commit/iamAntimPal/ExcelMasteryHub" alt="Last Commit">
 </div>
+
 
 Welcome to **ExcelMasteryHub** – your all-in-one resource for mastering Microsoft Excel! Created by **iamAntimPal**, this repository provides lesson-wise tutorials, interactive exercises, assignments, and real-world projects designed to take you from Excel beginner to advanced pro.
 
